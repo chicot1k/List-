@@ -1,0 +1,7 @@
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\bin\Debug\CSHARPLIST.exe.config
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\bin\Debug\CSHARPLIST.exe
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\bin\Debug\CSHARPLIST.pdb
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\obj\Debug\CSHARPLIST.csprojAssemblyReference.cache
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\obj\Debug\CSHARPLIST.csproj.CoreCompileInputs.cache
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\obj\Debug\CSHARPLIST.exe
+C:\Users\Chicot1k\source\repos\CSHARPLIST\CSHARPLIST\obj\Debug\CSHARPLIST.pdb
